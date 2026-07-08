@@ -1,2 +1,2 @@
-Hello Git
-welcome to utthunga 
+Hello Git -- 
+Welcome to Utthunga Technology
